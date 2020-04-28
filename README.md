@@ -1,2 +1,6 @@
-# coffeetose
-Coffee flavour desktop theme for Ubuntu 20.04
+# Coffeetose ☕
+Coffee flavoured desktop theme for Ubuntu 20.04
+
+(Created using Oomix Engine)
+
+
