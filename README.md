@@ -7,7 +7,7 @@ Coffee flavoured desktop theme for Ubuntu 20.04
 
 ## Installation
 
-1. Download the .zip file: [Pre-Release](https://github.com/aakashsinghbais/coffeetose/releases/download/v0.1/coffeetose-theme.zip)
+1. Download the .zip file: [Releases Page](https://github.com/aakashsinghbais/coffeetose/releases)
 1. Extract it to the .themes folder in home/username/ directory.
 1. Open Gnome Tweak Tool, if not already installed, install it using the command: 
   ```
