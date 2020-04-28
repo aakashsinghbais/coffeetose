@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>coffee</name>
+  <name>coffee-theme</name>
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2020</date>
-  <description>coffee Metacity theme</description>
+  <description>coffee-theme Metacity theme</description>
 </info>
 
 <!-- meaningful constants -->
