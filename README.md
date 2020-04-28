@@ -19,3 +19,8 @@ That's all Enjoy!
 
 ## Coming Soon
 Corresponding Icon theme.
+
+## License
+[Creative Commons v1.0 Universal](https://github.com/aakashsinghbais/coffeetose/blob/master/LICENSE)
+
+:warning: This software is released as is. The author will not be responsible for any harmed caused by the software. Use carefully.
