@@ -19,7 +19,7 @@ Coffee flavoured desktop theme for Ubuntu 20.04
 That's all Enjoy!
 
 ## Coming Soon
-1. Corresponding Shell Theme ✔️ [Release Page: [v1.0.0-beta(shell)](https://github.com/aakashsinghbais/coffeetose/releases/tag/v1.0.0-beta(shell))].
+1. Corresponding Shell Theme ☑️ [Release Page: [v1.0.0-beta(shell)](https://github.com/aakashsinghbais/coffeetose/releases/tag/v1.0.0-beta(shell))].
 > To install shell theme, download the file from the link in the previous line, follow the rest of the steps as mentioned in the **Installation** section above, but finally after opening Tweaks, change the theme under the "Shell" heading in the Appearance tab.
 1. Corresponding Icon Theme.
 1. Corresponding Chrome/Chromium Theme.
