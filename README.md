@@ -19,7 +19,8 @@ Coffee flavoured desktop theme for Ubuntu 20.04
 That's all Enjoy!
 
 ## Coming Soon
-Corresponding Icon theme.
+1. Corresponding Shell Theme.
+1. Corresponding Icon Theme.
 
 ## License
 [Creative Commons v1.0 Universal](https://github.com/aakashsinghbais/coffeetose/blob/master/LICENSE)
