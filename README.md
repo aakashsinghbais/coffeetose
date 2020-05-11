@@ -21,7 +21,7 @@ That's all Enjoy!
 ## Coming Soon
 1. Corresponding Shell Theme.
 1. Corresponding Icon Theme.
-1. Corresponding Chrome Theme.
+1. Corresponding Chrome/Chromium Theme.
 
 ## License
 [Creative Commons v1.0 Universal](https://github.com/aakashsinghbais/coffeetose/blob/master/LICENSE)
