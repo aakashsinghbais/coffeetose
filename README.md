@@ -23,6 +23,7 @@ That's all Enjoy!
 > To install shell theme, download the file from the link in the previous line, follow the rest of the steps as mentioned in the **Installation** section above, but finally after opening Tweaks, change the theme under the "Shell" heading in the Appearance tab.
 - [ ] Corresponding Icon Theme.
 - [ ] Corresponding Chrome/Chromium Theme.
+- [ ] Corresponding Conky Theme
 
 ## License
 [Creative Commons v1.0 Universal](https://github.com/aakashsinghbais/coffeetose/blob/master/LICENSE)
