@@ -3,7 +3,7 @@ Coffee flavoured desktop theme for Ubuntu 20.04
 
 (Created using Oomox Theme Engine)
 
-![](https://github.com/aakashsinghbais/coffeetose/blob/master/coffeetose_application-theme/_resources/sample.pngq)
+![](https://github.com/aakashsinghbais/coffeetose/blob/master/coffeetose_application-theme/_resources/sample.png)
 
 ## Installation
 
